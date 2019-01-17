@@ -1,0 +1,6 @@
+0 0.045 Air false 0.0  0.0  0.0  0.2
+0.045 0.078 PMMA true 0.5  0.5  0.5  0.2
+0.078 0.2 Water true 0.5  0.5  0.5  0.2
+1 1 Plastic true 0.5  0.5  0.5  0.2
+2 2 Copper true 0.5  0.5  0.5  0.2
+

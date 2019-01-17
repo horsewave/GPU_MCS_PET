@@ -1,0 +1,21 @@
+0 0.045 Air false 0.0  0.0  0.0  0.2
+0.045 0.078 PMMA true 0.5  0.5  0.5  0.2
+0.078 0.108 Water true 0.5  0.5  0.5  0.2
+0.108 0.140 Glass true 0.5  0.5  0.5  0.2
+1 1 Plastic true 0.5  0.5  0.5  0.2
+2 2 Copper true 0.5  0.5  0.5  0.2
+
+
+
+0.111 0.222 Air false 0.0 0.0 0.0 0.0 1.0
+0.9	1.2	Water false 0.0  1.0  0.0  0.2         
+1.9 2.2	Brain 	true 0.5  0.5  0.5  0.2
+3	3	Brain	true 0.5  0.5  0.5  0.2
+4	4	Brain	false 0.0  1.0  0.0  0.2
+5	5 Brain true 0.5  0.5  0.5  0.2
+6	6	Brain   true 0.5  0.5  0.5  0.2
+7	7	Skull	false 1.0  1.0  1.0  0.2
+8	8	Brain	true 1.0  0.0  0.0  0.2
+9	9	Brain   true 0.5  0.5  0.5  0.2
+10	10	Brain   true 0.5  0.5  0.5  0.2
+11	11	Brain   false 1.0  1.0  1.0  0.2

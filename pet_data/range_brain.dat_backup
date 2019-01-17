@@ -1,0 +1,6 @@
+0 0.05 Air false 0.0  0.0  0.0  0.2
+0.05 0.115 Brain true 0.5  0.5  0.5  0.2
+0.115 0.2 Skull true 0.5  0.5  0.5  0.2
+1 1 Plastic true 0.5  0.5  0.5  0.2
+2 2 Copper true 0.5  0.5  0.5  0.2
+

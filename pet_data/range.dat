@@ -1,0 +1,18 @@
+0 0 Air false 0.0 0.0 0.0 0.0 1.0
+1 1 Lung false 0. 255. 0. 1.0
+10 10 Body false 1.0 1.0 1.0 1.0
+20 20 RibBone true 255. 255. 255. 1.0
+40 40 SpineBone true 255. 255. 255. 1.0
+50 50 Intestine false 0. 255. 255. 1.0
+60 60 Breast false 0. 255. 255. 1.0
+70 70 Spleen false 25. 120. 45. 1.0
+100 100 Blood false 255. 0. 0. 1.0
+110 110 Heart false 255. 120. 45. 1.0
+120 120 Liver false 25. 12. 45. 1.0
+125 125 Breast false 25. 12. 45. 1.0
+130 130 Kidney false 40. 12. 45. 1.0
+170 170 Breast false 25. 200. 45. 1.0
+180 180 Breast false 25. 200. 45. 1.0
+
+
+
